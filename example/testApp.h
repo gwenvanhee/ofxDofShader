@@ -2,6 +2,8 @@
 
 #include "ofMain.h"
 #include "ofxDofShader.h"
+// include GUI to control
+// some params (OF8.0)
 #include "ofxGui.h"
 
 

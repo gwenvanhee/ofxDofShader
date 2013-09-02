@@ -10,7 +10,7 @@ public:
     
     // GUI params
     // if GUI is not included
-    // use basic ints & floats (< OF8.0
+    // use basic ints & floats (< OF8.0)
     ofxIntSlider passes;
     ofxFloatSlider blur;
     ofxFloatSlider focus;
