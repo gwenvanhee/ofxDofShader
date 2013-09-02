@@ -1,8 +1,8 @@
 ofxDofShader
 ============
 
-Implementation of a DOF shader for [openFrameworks](http://www.openframeworks.cc/).    
-With some help from the amazing [Kris Temmerman](http://http://www.neuroproductions.be/).    
+Implementation of a Depth Of Field shader for [openFrameworks](http://www.openframeworks.cc/).    
+Credits to [Kris Temmerman](http://http://www.neuroproductions.be/) for helping out with the maths.     
 
 Feedback, questions, ...     
 Get in touch [@gwenvanhee](http://www.twitter.com/gwenvanhee)
